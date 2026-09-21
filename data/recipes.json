@@ -1,0 +1,3861 @@
+[
+  {
+    "id": 1,
+    "name": "Garlic Butter Chicken Rice",
+    "cuisine": "American",
+    "ingredients": [
+      "chicken",
+      "rice",
+      "garlic",
+      "butter",
+      "onion",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Sear chicken pieces in butter until golden. Add chopped garlic and onion, cook until fragrant. Add rice and enough water, cover and simmer 15-20 minutes until rice is tender. Season with salt and pepper."
+  },
+  {
+    "id": 2,
+    "name": "Classic Tomato Pasta",
+    "cuisine": "Italian",
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "garlic",
+      "olive oil",
+      "basil",
+      "salt",
+      "parmesan"
+    ],
+    "instructions": "Boil pasta until al dente. Saute garlic in olive oil, add chopped tomatoes and simmer into a sauce. Toss pasta in sauce, top with basil and parmesan."
+  },
+  {
+    "id": 3,
+    "name": "Vegetable Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "rice",
+      "egg",
+      "carrot",
+      "peas",
+      "soy sauce",
+      "onion",
+      "garlic",
+      "oil"
+    ],
+    "instructions": "Scramble egg and set aside. Stir-fry onion, garlic, carrot and peas in oil. Add cold rice, soy sauce and scrambled egg, stir-fry until combined."
+  },
+  {
+    "id": 4,
+    "name": "Chicken Tikka Masala",
+    "cuisine": "Indian",
+    "ingredients": [
+      "chicken",
+      "yogurt",
+      "tomato",
+      "cream",
+      "garlic",
+      "ginger",
+      "garam masala",
+      "onion"
+    ],
+    "instructions": "Marinate chicken in yogurt and spices, grill or pan-sear. Make a sauce with onion, garlic, ginger, tomato and cream. Simmer chicken in the sauce until cooked through."
+  },
+  {
+    "id": 5,
+    "name": "Simple Omelette",
+    "cuisine": "American",
+    "ingredients": [
+      "egg",
+      "milk",
+      "salt",
+      "pepper",
+      "butter",
+      "cheese"
+    ],
+    "instructions": "Whisk eggs with milk, salt and pepper. Cook in buttered pan over low heat, add cheese, fold and serve."
+  },
+  {
+    "id": 6,
+    "name": "Beef Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "beef",
+      "tortilla",
+      "onion",
+      "tomato",
+      "lettuce",
+      "cheese",
+      "cumin",
+      "chili powder"
+    ],
+    "instructions": "Brown ground beef with onion, cumin and chili powder. Fill tortillas with beef, top with tomato, lettuce and cheese."
+  },
+  {
+    "id": 7,
+    "name": "Chickpea Curry (Chana Masala)",
+    "cuisine": "Indian",
+    "ingredients": [
+      "chickpeas",
+      "tomato",
+      "onion",
+      "garlic",
+      "ginger",
+      "cumin",
+      "coriander",
+      "oil"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil. Add spices and tomato, cook into a thick sauce. Add chickpeas and simmer 10 minutes."
+  },
+  {
+    "id": 8,
+    "name": "Grilled Cheese Sandwich",
+    "cuisine": "American",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "butter"
+    ],
+    "instructions": "Butter bread slices, place cheese between them, and grill in a pan on both sides until golden and cheese melts."
+  },
+  {
+    "id": 9,
+    "name": "Shrimp Garlic Noodles",
+    "cuisine": "Asian",
+    "ingredients": [
+      "shrimp",
+      "noodles",
+      "garlic",
+      "soy sauce",
+      "butter",
+      "chili flakes"
+    ],
+    "instructions": "Cook noodles. Saute shrimp and garlic in butter until pink. Add soy sauce and cooked noodles, toss with chili flakes."
+  },
+  {
+    "id": 10,
+    "name": "Vegetable Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "carrot",
+      "potato",
+      "onion",
+      "celery",
+      "vegetable broth",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Saute onion and celery, add chopped carrot and potato, pour in broth and simmer until vegetables are tender. Season to taste."
+  },
+  {
+    "id": 11,
+    "name": "Paneer Butter Masala",
+    "cuisine": "Indian",
+    "ingredients": [
+      "paneer",
+      "tomato",
+      "cream",
+      "butter",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Make a tomato-based sauce with butter, garlic, ginger and spices. Blend smooth, add cream and paneer cubes, simmer briefly."
+  },
+  {
+    "id": 12,
+    "name": "Egg Fried Noodles",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "noodles",
+      "egg",
+      "carrot",
+      "cabbage",
+      "soy sauce",
+      "garlic",
+      "oil"
+    ],
+    "instructions": "Scramble egg, set aside. Stir-fry garlic, carrot and cabbage in oil. Add noodles and soy sauce, mix in egg and toss well."
+  },
+  {
+    "id": 13,
+    "name": "Baked Salmon with Lemon",
+    "cuisine": "International",
+    "ingredients": [
+      "salmon",
+      "lemon",
+      "olive oil",
+      "garlic",
+      "salt",
+      "pepper",
+      "herbs"
+    ],
+    "instructions": "Rub salmon with olive oil, garlic and herbs. Squeeze lemon over top, season with salt and pepper. Bake at 200C for 12-15 minutes."
+  },
+  {
+    "id": 14,
+    "name": "Lentil Soup (Dal)",
+    "cuisine": "Indian",
+    "ingredients": [
+      "lentils",
+      "onion",
+      "garlic",
+      "tomato",
+      "cumin",
+      "turmeric",
+      "oil"
+    ],
+    "instructions": "Boil lentils with turmeric until soft. In a separate pan, saute onion, garlic and cumin in oil, add tomato, then mix into the lentils and simmer."
+  },
+  {
+    "id": 15,
+    "name": "Margherita Pizza",
+    "cuisine": "Italian",
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "mozzarella",
+      "basil",
+      "olive oil"
+    ],
+    "instructions": "Spread tomato sauce on dough, top with mozzarella. Bake until crust is golden. Add fresh basil and a drizzle of olive oil before serving."
+  },
+  {
+    "id": 16,
+    "name": "Chicken Caesar Salad",
+    "cuisine": "American",
+    "ingredients": [
+      "chicken",
+      "lettuce",
+      "parmesan",
+      "croutons",
+      "caesar dressing"
+    ],
+    "instructions": "Grill chicken and slice. Toss lettuce with caesar dressing, top with chicken, parmesan and croutons."
+  },
+  {
+    "id": 17,
+    "name": "Vegetable Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "broccoli",
+      "carrot",
+      "bell pepper",
+      "garlic",
+      "soy sauce",
+      "oil"
+    ],
+    "instructions": "Stir-fry garlic in hot oil, add chopped vegetables and cook until crisp-tender. Toss with soy sauce."
+  },
+  {
+    "id": 18,
+    "name": "Beef Stew",
+    "cuisine": "International",
+    "ingredients": [
+      "beef",
+      "potato",
+      "carrot",
+      "onion",
+      "beef broth",
+      "tomato paste",
+      "garlic"
+    ],
+    "instructions": "Brown beef chunks, add onion and garlic, then potato, carrot, broth and tomato paste. Simmer until meat is tender, about 1.5 hours."
+  },
+  {
+    "id": 19,
+    "name": "Egg Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "rice",
+      "egg",
+      "spring onion",
+      "soy sauce",
+      "oil"
+    ],
+    "instructions": "Scramble egg in oil, add cold rice and soy sauce, stir-fry until heated through, garnish with spring onion."
+  },
+  {
+    "id": 20,
+    "name": "Mushroom Risotto",
+    "cuisine": "Italian",
+    "ingredients": [
+      "rice",
+      "mushroom",
+      "onion",
+      "garlic",
+      "vegetable broth",
+      "parmesan",
+      "butter"
+    ],
+    "instructions": "Saute onion, garlic and mushroom in butter. Add rice, then gradually stir in warm broth until creamy. Finish with parmesan."
+  },
+  {
+    "id": 21,
+    "name": "Chicken Noodle Soup",
+    "cuisine": "American",
+    "ingredients": [
+      "chicken",
+      "noodles",
+      "carrot",
+      "celery",
+      "onion",
+      "chicken broth"
+    ],
+    "instructions": "Simmer chicken with broth, onion, carrot and celery until cooked. Shred chicken, add noodles and cook until tender."
+  },
+  {
+    "id": 22,
+    "name": "Falafel Wrap",
+    "cuisine": "Middle Eastern",
+    "ingredients": [
+      "chickpeas",
+      "garlic",
+      "cumin",
+      "coriander",
+      "tortilla",
+      "lettuce",
+      "tomato",
+      "tahini"
+    ],
+    "instructions": "Blend chickpeas with garlic and spices, form patties and fry until crisp. Wrap in tortilla with lettuce, tomato and tahini sauce."
+  },
+  {
+    "id": 23,
+    "name": "Spaghetti Aglio e Olio",
+    "cuisine": "Italian",
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "olive oil",
+      "chili flakes",
+      "parsley"
+    ],
+    "instructions": "Cook pasta. Gently fry sliced garlic in olive oil with chili flakes, toss in pasta and parsley."
+  },
+  {
+    "id": 24,
+    "name": "Pork Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "pork",
+      "rice",
+      "egg",
+      "peas",
+      "carrot",
+      "soy sauce",
+      "garlic"
+    ],
+    "instructions": "Stir-fry diced pork until cooked, set aside. Scramble egg, saute garlic, carrot and peas, add rice, pork and soy sauce, combine well."
+  },
+  {
+    "id": 25,
+    "name": "Vegetable Omelette",
+    "cuisine": "American",
+    "ingredients": [
+      "egg",
+      "bell pepper",
+      "onion",
+      "tomato",
+      "cheese",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Whisk eggs and season. Saute vegetables, pour eggs over, add cheese, cook until set and fold."
+  },
+  {
+    "id": 26,
+    "name": "Thai Green Curry",
+    "cuisine": "Thai",
+    "ingredients": [
+      "chicken",
+      "coconut milk",
+      "green curry paste",
+      "bell pepper",
+      "basil",
+      "fish sauce"
+    ],
+    "instructions": "Fry curry paste, add chicken and cook until browned. Pour in coconut milk, simmer with bell pepper, season with fish sauce and top with basil."
+  },
+  {
+    "id": 27,
+    "name": "Black Bean Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "black beans",
+      "tortilla",
+      "onion",
+      "tomato",
+      "cheese",
+      "lime",
+      "cumin"
+    ],
+    "instructions": "Saute onion with cumin, add black beans and warm through. Fill tortillas, top with tomato, cheese and a squeeze of lime."
+  },
+  {
+    "id": 28,
+    "name": "Creamy Mashed Potatoes",
+    "cuisine": "American",
+    "ingredients": [
+      "potato",
+      "butter",
+      "milk",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Boil potatoes until tender, mash with butter and warm milk, season with salt and pepper."
+  },
+  {
+    "id": 29,
+    "name": "Tuna Salad Sandwich",
+    "cuisine": "American",
+    "ingredients": [
+      "tuna",
+      "mayonnaise",
+      "celery",
+      "onion",
+      "bread",
+      "lettuce"
+    ],
+    "instructions": "Mix tuna with mayonnaise, chopped celery and onion. Spread on bread with lettuce."
+  },
+  {
+    "id": 30,
+    "name": "Vegetable Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "potato",
+      "carrot",
+      "peas",
+      "tomato",
+      "onion",
+      "garlic",
+      "ginger",
+      "curry powder"
+    ],
+    "instructions": "Saute onion, garlic and ginger, add curry powder and tomato. Add potato, carrot and peas with water, simmer until vegetables are tender."
+  },
+  {
+    "id": 31,
+    "name": "Beef Burger",
+    "cuisine": "American",
+    "ingredients": [
+      "beef",
+      "bun",
+      "cheese",
+      "lettuce",
+      "tomato",
+      "onion",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Season and grill beef patties. Assemble in buns with cheese, lettuce, tomato and onion."
+  },
+  {
+    "id": 32,
+    "name": "Shakshuka",
+    "cuisine": "Middle Eastern",
+    "ingredients": [
+      "egg",
+      "tomato",
+      "onion",
+      "bell pepper",
+      "garlic",
+      "cumin",
+      "paprika"
+    ],
+    "instructions": "Saute onion, bell pepper and garlic, add tomato and spices, simmer into a sauce. Crack eggs into the sauce and cook until set."
+  },
+  {
+    "id": 33,
+    "name": "Chicken Quesadilla",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "chicken",
+      "tortilla",
+      "cheese",
+      "bell pepper",
+      "onion"
+    ],
+    "instructions": "Saute chicken with onion and bell pepper. Layer with cheese between tortillas and cook until crisp and melted."
+  },
+  {
+    "id": 34,
+    "name": "Miso Soup",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "miso paste",
+      "tofu",
+      "seaweed",
+      "spring onion",
+      "water"
+    ],
+    "instructions": "Heat water, whisk in miso paste. Add cubed tofu and seaweed, simmer briefly, garnish with spring onion."
+  },
+  {
+    "id": 35,
+    "name": "Chicken Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "chicken",
+      "rice",
+      "egg",
+      "carrot",
+      "peas",
+      "soy sauce",
+      "garlic"
+    ],
+    "instructions": "Cook diced chicken, set aside. Scramble egg, saute garlic and vegetables, add rice, chicken and soy sauce, stir-fry together."
+  },
+  {
+    "id": 36,
+    "name": "Caprese Salad",
+    "cuisine": "Italian",
+    "ingredients": [
+      "tomato",
+      "mozzarella",
+      "basil",
+      "olive oil",
+      "salt"
+    ],
+    "instructions": "Slice tomato and mozzarella, layer with basil leaves, drizzle with olive oil and season with salt."
+  },
+  {
+    "id": 37,
+    "name": "Butter Chicken",
+    "cuisine": "Indian",
+    "ingredients": [
+      "chicken",
+      "butter",
+      "tomato",
+      "cream",
+      "garam masala",
+      "garlic",
+      "ginger"
+    ],
+    "instructions": "Marinate and cook chicken. Make sauce from butter, tomato, garlic, ginger and spices, add cream, then simmer chicken in sauce."
+  },
+  {
+    "id": 38,
+    "name": "Vegetable Pasta Primavera",
+    "cuisine": "Italian",
+    "ingredients": [
+      "pasta",
+      "zucchini",
+      "bell pepper",
+      "carrot",
+      "garlic",
+      "olive oil",
+      "parmesan"
+    ],
+    "instructions": "Cook pasta. Saute vegetables and garlic in olive oil, toss with pasta and top with parmesan."
+  },
+  {
+    "id": 39,
+    "name": "Pulled Pork Sandwich",
+    "cuisine": "American",
+    "ingredients": [
+      "pork",
+      "barbecue sauce",
+      "bun",
+      "coleslaw"
+    ],
+    "instructions": "Slow-cook pork until tender, shred and mix with barbecue sauce. Serve on a bun topped with coleslaw."
+  },
+  {
+    "id": 40,
+    "name": "Egg Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "egg",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "curry powder",
+      "oil"
+    ],
+    "instructions": "Boil and halve eggs. Make a sauce with onion, tomato, garlic, ginger and curry powder, add eggs and simmer briefly."
+  },
+  {
+    "id": 41,
+    "name": "Greek Salad",
+    "cuisine": "Greek",
+    "ingredients": [
+      "cucumber",
+      "tomato",
+      "olives",
+      "feta cheese",
+      "onion",
+      "olive oil"
+    ],
+    "instructions": "Chop cucumber, tomato and onion, combine with olives and feta, drizzle with olive oil."
+  },
+  {
+    "id": 42,
+    "name": "Chicken Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "chicken",
+      "broccoli",
+      "carrot",
+      "garlic",
+      "soy sauce",
+      "oil"
+    ],
+    "instructions": "Stir-fry chicken until cooked, remove. Stir-fry garlic and vegetables, return chicken, toss with soy sauce."
+  },
+  {
+    "id": 43,
+    "name": "Baked Ziti",
+    "cuisine": "Italian",
+    "ingredients": [
+      "pasta",
+      "tomato sauce",
+      "mozzarella",
+      "ricotta",
+      "garlic"
+    ],
+    "instructions": "Cook pasta, mix with tomato sauce and ricotta. Top with mozzarella and bake until bubbly and golden."
+  },
+  {
+    "id": 44,
+    "name": "Vegetable Quiche",
+    "cuisine": "French",
+    "ingredients": [
+      "egg",
+      "milk",
+      "pie crust",
+      "cheese",
+      "spinach",
+      "onion"
+    ],
+    "instructions": "Saute spinach and onion. Whisk eggs with milk, mix in vegetables and cheese, pour into crust and bake until set."
+  },
+  {
+    "id": 45,
+    "name": "Chicken Shawarma Wrap",
+    "cuisine": "Middle Eastern",
+    "ingredients": [
+      "chicken",
+      "tortilla",
+      "garlic",
+      "yogurt",
+      "cumin",
+      "paprika",
+      "lettuce",
+      "tomato"
+    ],
+    "instructions": "Marinate chicken in yogurt and spices, grill and slice. Wrap in tortilla with lettuce and tomato."
+  },
+  {
+    "id": 46,
+    "name": "Potato Leek Soup",
+    "cuisine": "French",
+    "ingredients": [
+      "potato",
+      "leek",
+      "onion",
+      "vegetable broth",
+      "cream",
+      "butter"
+    ],
+    "instructions": "Saute leek and onion in butter, add potato and broth, simmer until tender, blend and stir in cream."
+  },
+  {
+    "id": 47,
+    "name": "Beef Chili",
+    "cuisine": "American",
+    "ingredients": [
+      "beef",
+      "kidney beans",
+      "tomato",
+      "onion",
+      "garlic",
+      "chili powder",
+      "cumin"
+    ],
+    "instructions": "Brown beef with onion and garlic. Add tomato, beans and spices, simmer for 30 minutes until thickened."
+  },
+  {
+    "id": 48,
+    "name": "Vegetable Fajitas",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "bell pepper",
+      "onion",
+      "tortilla",
+      "cumin",
+      "chili powder",
+      "lime"
+    ],
+    "instructions": "Saute sliced peppers and onion with cumin and chili powder. Serve in tortillas with a squeeze of lime."
+  },
+  {
+    "id": 49,
+    "name": "Chicken Parmesan",
+    "cuisine": "Italian",
+    "ingredients": [
+      "chicken",
+      "breadcrumbs",
+      "egg",
+      "tomato sauce",
+      "mozzarella",
+      "parmesan"
+    ],
+    "instructions": "Coat chicken in egg and breadcrumbs, fry until golden. Top with tomato sauce and cheese, bake until melted."
+  },
+  {
+    "id": 50,
+    "name": "Rice and Beans",
+    "cuisine": "Latin American",
+    "ingredients": [
+      "rice",
+      "black beans",
+      "onion",
+      "garlic",
+      "cumin"
+    ],
+    "instructions": "Saute onion and garlic with cumin, add beans and cooked rice, stir together and heat through."
+  },
+  {
+    "id": 51,
+    "name": "Cream of Mushroom Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "mushroom",
+      "onion",
+      "garlic",
+      "cream",
+      "vegetable broth",
+      "butter"
+    ],
+    "instructions": "Saute mushroom, onion and garlic in butter, add broth and simmer, blend smooth and stir in cream."
+  },
+  {
+    "id": 52,
+    "name": "Shrimp Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "shrimp",
+      "tortilla",
+      "cabbage",
+      "lime",
+      "chili powder",
+      "mayonnaise"
+    ],
+    "instructions": "Season shrimp with chili powder and pan-sear. Fill tortillas with shrimp, cabbage and a lime-mayo drizzle."
+  },
+  {
+    "id": 53,
+    "name": "Chicken Alfredo",
+    "cuisine": "Italian",
+    "ingredients": [
+      "chicken",
+      "pasta",
+      "cream",
+      "parmesan",
+      "garlic",
+      "butter"
+    ],
+    "instructions": "Cook pasta and grilled chicken. Make sauce from butter, garlic, cream and parmesan, toss with pasta and chicken."
+  },
+  {
+    "id": 54,
+    "name": "Vegetable Kebabs",
+    "cuisine": "Middle Eastern",
+    "ingredients": [
+      "bell pepper",
+      "zucchini",
+      "onion",
+      "mushroom",
+      "olive oil",
+      "garlic"
+    ],
+    "instructions": "Toss vegetables in olive oil and garlic, skewer and grill until charred and tender."
+  },
+  {
+    "id": 55,
+    "name": "Fish and Chips",
+    "cuisine": "British",
+    "ingredients": [
+      "fish",
+      "potato",
+      "flour",
+      "egg",
+      "oil",
+      "salt"
+    ],
+    "instructions": "Coat fish in flour and egg, fry until crisp. Fry potato wedges until golden. Serve together with salt."
+  },
+  {
+    "id": 56,
+    "name": "Vegetable Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "peas",
+      "onion",
+      "garlic",
+      "ginger",
+      "garam masala",
+      "yogurt"
+    ],
+    "instructions": "Saute onion, garlic and ginger with spices, add vegetables and yogurt. Layer with partially cooked rice and steam until fully cooked."
+  },
+  {
+    "id": 57,
+    "name": "Turkey Sandwich",
+    "cuisine": "American",
+    "ingredients": [
+      "turkey",
+      "bread",
+      "lettuce",
+      "tomato",
+      "mayonnaise",
+      "cheese"
+    ],
+    "instructions": "Layer turkey, cheese, lettuce and tomato between bread slices spread with mayonnaise."
+  },
+  {
+    "id": 58,
+    "name": "Coconut Chickpea Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "chickpeas",
+      "coconut milk",
+      "onion",
+      "garlic",
+      "ginger",
+      "curry powder",
+      "tomato"
+    ],
+    "instructions": "Saute onion, garlic and ginger with curry powder, add tomato and coconut milk, then chickpeas, simmer 10 minutes."
+  },
+  {
+    "id": 59,
+    "name": "Baked Chicken Thighs",
+    "cuisine": "American",
+    "ingredients": [
+      "chicken",
+      "garlic",
+      "olive oil",
+      "lemon",
+      "herbs",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Rub chicken thighs with olive oil, garlic, herbs, salt and pepper. Bake at 200C for 35-40 minutes until golden."
+  },
+  {
+    "id": 60,
+    "name": "Vegetable Ramen",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "noodles",
+      "vegetable broth",
+      "mushroom",
+      "carrot",
+      "spring onion",
+      "egg",
+      "soy sauce"
+    ],
+    "instructions": "Simmer broth with soy sauce, mushroom and carrot. Cook noodles separately, add to broth, top with soft-boiled egg and spring onion."
+  },
+  {
+    "id": 61,
+    "name": "Palak Paneer",
+    "cuisine": "Indian",
+    "ingredients": [
+      "spinach",
+      "paneer",
+      "onion",
+      "garlic",
+      "ginger",
+      "tomato",
+      "cream",
+      "garam masala"
+    ],
+    "instructions": "Blanch and puree spinach. Saute onion, garlic and ginger, add tomato and spices, stir in spinach puree, add paneer cubes and cream, simmer briefly."
+  },
+  {
+    "id": 62,
+    "name": "Aloo Gobi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "potato",
+      "cauliflower",
+      "onion",
+      "tomato",
+      "cumin",
+      "turmeric",
+      "coriander",
+      "oil"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion and tomato, then potato and cauliflower with turmeric and coriander. Cover and cook until vegetables are tender."
+  },
+  {
+    "id": 63,
+    "name": "Baingan Bharta",
+    "cuisine": "Indian",
+    "ingredients": [
+      "eggplant",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "cumin",
+      "oil"
+    ],
+    "instructions": "Roast eggplant until charred and soft, peel and mash. Saute onion, garlic, ginger and cumin, add tomato, then mashed eggplant, cook until combined."
+  },
+  {
+    "id": 64,
+    "name": "Masala Dosa",
+    "cuisine": "Indian",
+    "ingredients": [
+      "rice batter",
+      "potato",
+      "onion",
+      "mustard seeds",
+      "turmeric",
+      "curry leaves",
+      "oil"
+    ],
+    "instructions": "Spread rice batter thin on a hot griddle to form a crepe. Fill with a spiced potato-onion mixture tempered with mustard seeds, turmeric and curry leaves. Fold and serve."
+  },
+  {
+    "id": 65,
+    "name": "Idli Sambar",
+    "cuisine": "Indian",
+    "ingredients": [
+      "rice batter",
+      "lentils",
+      "tomato",
+      "tamarind",
+      "carrot",
+      "curry leaves",
+      "mustard seeds"
+    ],
+    "instructions": "Steam rice batter in idli molds until fluffy. Cook lentils with tomato, tamarind and carrot into a soup, temper with mustard seeds and curry leaves, serve alongside idli."
+  },
+  {
+    "id": 66,
+    "name": "Rajma (Kidney Bean Curry)",
+    "cuisine": "Indian",
+    "ingredients": [
+      "kidney beans",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala",
+      "oil"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala, then cooked kidney beans and simmer 15 minutes until thickened."
+  },
+  {
+    "id": 67,
+    "name": "Malai Kofta",
+    "cuisine": "Indian",
+    "ingredients": [
+      "potato",
+      "paneer",
+      "cream",
+      "tomato",
+      "onion",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Mash potato and paneer, form into balls and fry until golden. Make a creamy tomato-onion sauce with garlic, ginger and garam masala, add fried koftas just before serving."
+  },
+  {
+    "id": 68,
+    "name": "Vegetable Pulao",
+    "cuisine": "Indian",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "peas",
+      "beans",
+      "onion",
+      "whole spices",
+      "oil"
+    ],
+    "instructions": "Saute whole spices and onion in oil, add mixed vegetables, then rice and water. Cover and cook until rice is fluffy and fully cooked."
+  },
+  {
+    "id": 69,
+    "name": "Poha",
+    "cuisine": "Indian",
+    "ingredients": [
+      "flattened rice",
+      "onion",
+      "potato",
+      "mustard seeds",
+      "curry leaves",
+      "turmeric",
+      "peanuts"
+    ],
+    "instructions": "Rinse and soften flattened rice. Temper mustard seeds and curry leaves in oil, saute onion and potato with turmeric, mix in the rice and peanuts, heat through."
+  },
+  {
+    "id": 70,
+    "name": "Vegetable Upma",
+    "cuisine": "Indian",
+    "ingredients": [
+      "semolina",
+      "onion",
+      "carrot",
+      "peas",
+      "mustard seeds",
+      "curry leaves",
+      "oil"
+    ],
+    "instructions": "Roast semolina until fragrant. Temper mustard seeds and curry leaves in oil, saute onion and vegetables, add water and semolina, stir until thick and fluffy."
+  },
+  {
+    "id": 71,
+    "name": "Paneer Tikka",
+    "cuisine": "Indian",
+    "ingredients": [
+      "paneer",
+      "yogurt",
+      "bell pepper",
+      "onion",
+      "garam masala",
+      "ginger",
+      "garlic"
+    ],
+    "instructions": "Marinate paneer cubes in yogurt, garam masala, ginger and garlic. Skewer with bell pepper and onion, grill or bake until lightly charred."
+  },
+  {
+    "id": 72,
+    "name": "Bhindi Masala (Okra Stir Fry)",
+    "cuisine": "Indian",
+    "ingredients": [
+      "okra",
+      "onion",
+      "tomato",
+      "cumin",
+      "turmeric",
+      "coriander",
+      "oil"
+    ],
+    "instructions": "Saute okra in oil until no longer sticky. Add onion, cook until soft, then tomato and spices, cook until okra is tender."
+  },
+  {
+    "id": 73,
+    "name": "Kadai Paneer",
+    "cuisine": "Indian",
+    "ingredients": [
+      "paneer",
+      "bell pepper",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger, add tomato and garam masala to form a sauce. Add bell pepper and paneer, cook until vegetables are just tender."
+  },
+  {
+    "id": 74,
+    "name": "Aloo Paratha",
+    "cuisine": "Indian",
+    "ingredients": [
+      "wheat flour",
+      "potato",
+      "onion",
+      "cumin",
+      "coriander",
+      "butter"
+    ],
+    "instructions": "Mash spiced potato and onion filling, stuff into wheat dough, roll flat and pan-fry with butter until golden on both sides."
+  },
+  {
+    "id": 75,
+    "name": "Chole Bhature",
+    "cuisine": "Indian",
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala",
+      "flour"
+    ],
+    "instructions": "Simmer chickpeas with a spiced onion-tomato-garlic-ginger sauce until thick. Fry rounds of leavened flour dough until puffed, serve together."
+  },
+  {
+    "id": 76,
+    "name": "Vegetable Korma",
+    "cuisine": "Indian",
+    "ingredients": [
+      "carrot",
+      "potato",
+      "peas",
+      "coconut milk",
+      "onion",
+      "garlic",
+      "ginger",
+      "cashews"
+    ],
+    "instructions": "Blend onion, garlic, ginger and cashews into a paste, saute until fragrant. Add coconut milk and vegetables, simmer until tender and creamy."
+  },
+  {
+    "id": 77,
+    "name": "Methi Thepla",
+    "cuisine": "Indian",
+    "ingredients": [
+      "wheat flour",
+      "fenugreek leaves",
+      "yogurt",
+      "turmeric",
+      "chili powder",
+      "oil"
+    ],
+    "instructions": "Knead wheat flour with chopped fenugreek leaves, yogurt and spices into a dough. Roll thin and pan-fry with oil until golden spots appear."
+  },
+  {
+    "id": 78,
+    "name": "Gobi Manchurian",
+    "cuisine": "Indian",
+    "ingredients": [
+      "cauliflower",
+      "garlic",
+      "soy sauce",
+      "flour",
+      "bell pepper",
+      "spring onion",
+      "oil"
+    ],
+    "instructions": "Coat cauliflower florets in flour and fry until crisp. Stir-fry garlic, bell pepper and spring onion, add soy sauce, toss in fried cauliflower to coat."
+  },
+  {
+    "id": 79,
+    "name": "Pav Bhaji",
+    "cuisine": "Indian",
+    "ingredients": [
+      "potato",
+      "peas",
+      "bell pepper",
+      "tomato",
+      "onion",
+      "butter",
+      "pav bhaji masala",
+      "bread rolls"
+    ],
+    "instructions": "Boil and mash potato, peas and bell pepper. Saute onion and tomato in butter with pav bhaji masala, mix in mashed vegetables. Toast bread rolls in butter and serve alongside."
+  },
+  {
+    "id": 80,
+    "name": "Sambar",
+    "cuisine": "Indian",
+    "ingredients": [
+      "lentils",
+      "tamarind",
+      "carrot",
+      "drumstick",
+      "tomato",
+      "sambar powder",
+      "curry leaves"
+    ],
+    "instructions": "Cook lentils until soft. Add tamarind, vegetables and sambar powder, simmer until vegetables are cooked. Temper with mustard seeds and curry leaves."
+  },
+  {
+    "id": 81,
+    "name": "Stuffed Bell Peppers",
+    "cuisine": "American",
+    "ingredients": [
+      "bell pepper",
+      "rice",
+      "black beans",
+      "corn",
+      "tomato",
+      "cheese",
+      "cumin"
+    ],
+    "instructions": "Mix cooked rice, black beans, corn, tomato and cumin. Stuff into halved bell peppers, top with cheese and bake until peppers are tender."
+  },
+  {
+    "id": 82,
+    "name": "Vegetable Lasagna",
+    "cuisine": "Italian",
+    "ingredients": [
+      "lasagna sheets",
+      "zucchini",
+      "spinach",
+      "tomato sauce",
+      "ricotta",
+      "mozzarella"
+    ],
+    "instructions": "Layer lasagna sheets with tomato sauce, sauteed zucchini and spinach, and ricotta. Top with mozzarella and bake until bubbly and golden."
+  },
+  {
+    "id": 83,
+    "name": "Buddha Bowl",
+    "cuisine": "International",
+    "ingredients": [
+      "quinoa",
+      "chickpeas",
+      "avocado",
+      "carrot",
+      "cucumber",
+      "spinach",
+      "olive oil"
+    ],
+    "instructions": "Arrange cooked quinoa, roasted chickpeas, sliced avocado, carrot, cucumber and spinach in a bowl, drizzle with olive oil."
+  },
+  {
+    "id": 84,
+    "name": "Cauliflower Fried Rice",
+    "cuisine": "Asian",
+    "ingredients": [
+      "cauliflower",
+      "egg",
+      "carrot",
+      "peas",
+      "soy sauce",
+      "garlic",
+      "spring onion"
+    ],
+    "instructions": "Pulse cauliflower into rice-sized pieces. Scramble egg, saute garlic, carrot and peas, add cauliflower rice and soy sauce, stir-fry until tender, garnish with spring onion."
+  },
+  {
+    "id": 85,
+    "name": "Eggplant Parmesan",
+    "cuisine": "Italian",
+    "ingredients": [
+      "eggplant",
+      "breadcrumbs",
+      "egg",
+      "tomato sauce",
+      "mozzarella",
+      "parmesan"
+    ],
+    "instructions": "Coat eggplant slices in egg and breadcrumbs, fry until golden. Layer with tomato sauce and cheeses, bake until melted and bubbly."
+  },
+  {
+    "id": 86,
+    "name": "Aloo Matar (Potato Peas Sabzi)",
+    "cuisine": "Indian",
+    "ingredients": [
+      "potato",
+      "peas",
+      "onion",
+      "tomato",
+      "cumin",
+      "turmeric",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion until golden, then tomato and spices. Add potato and peas with a splash of water, cover and simmer until tender."
+  },
+  {
+    "id": 87,
+    "name": "Gajar Matar (Carrot Peas Sabzi)",
+    "cuisine": "Indian",
+    "ingredients": [
+      "carrot",
+      "peas",
+      "onion",
+      "cumin",
+      "turmeric",
+      "ginger",
+      "oil"
+    ],
+    "instructions": "Saute cumin seeds and ginger in oil, add onion until soft. Add carrot and peas with turmeric, cover and cook until vegetables are tender."
+  },
+  {
+    "id": 88,
+    "name": "Lauki Sabzi (Bottle Gourd Curry)",
+    "cuisine": "Indian",
+    "ingredients": [
+      "bottle gourd",
+      "onion",
+      "tomato",
+      "cumin",
+      "turmeric",
+      "coriander",
+      "oil"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion and tomato, cook until soft. Add chopped bottle gourd with turmeric and coriander, cover and simmer until tender."
+  },
+  {
+    "id": 89,
+    "name": "Karela Sabzi (Bitter Gourd Stir Fry)",
+    "cuisine": "Indian",
+    "ingredients": [
+      "bitter gourd",
+      "onion",
+      "turmeric",
+      "coriander",
+      "amchur",
+      "oil"
+    ],
+    "instructions": "Saute sliced bitter gourd in oil until browned. Add onion, turmeric and coriander, cook until soft, finish with a pinch of amchur for tang."
+  },
+  {
+    "id": 90,
+    "name": "Mixed Vegetable Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "potato",
+      "carrot",
+      "beans",
+      "peas",
+      "cauliflower",
+      "cumin",
+      "turmeric",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add mixed chopped vegetables with turmeric and coriander. Cover and cook until all vegetables are tender, stirring occasionally."
+  },
+  {
+    "id": 91,
+    "name": "Dum Aloo",
+    "cuisine": "Indian",
+    "ingredients": [
+      "potato",
+      "yogurt",
+      "onion",
+      "tomato",
+      "garam masala",
+      "ginger",
+      "garlic"
+    ],
+    "instructions": "Fry small whole potatoes until golden. Make a yogurt-tomato based sauce with onion, garlic, ginger and garam masala, add potatoes and simmer covered until infused."
+  },
+  {
+    "id": 92,
+    "name": "Aloo Methi (Potato Fenugreek Sabzi)",
+    "cuisine": "Indian",
+    "ingredients": [
+      "potato",
+      "fenugreek leaves",
+      "onion",
+      "cumin",
+      "turmeric",
+      "oil"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion and diced potato with turmeric. Cover and cook until potato softens, stir in chopped fenugreek leaves and cook a few more minutes."
+  },
+  {
+    "id": 93,
+    "name": "Kadhi Pakora",
+    "cuisine": "Indian",
+    "ingredients": [
+      "yogurt",
+      "chickpea flour",
+      "onion",
+      "turmeric",
+      "mustard seeds",
+      "curry leaves"
+    ],
+    "instructions": "Whisk yogurt with chickpea flour and turmeric, simmer into a tangy sauce. Fry onion fritters (pakora) from chickpea flour batter, add to the sauce, temper with mustard seeds and curry leaves."
+  },
+  {
+    "id": 94,
+    "name": "Cabbage Sabzi (Patta Gobi)",
+    "cuisine": "Indian",
+    "ingredients": [
+      "cabbage",
+      "onion",
+      "mustard seeds",
+      "turmeric",
+      "green chili",
+      "oil"
+    ],
+    "instructions": "Temper mustard seeds and green chili in oil, add onion until soft. Add shredded cabbage and turmeric, cover and cook until just tender, keeping a slight crunch."
+  },
+  {
+    "id": 95,
+    "name": "Beans Poriyal",
+    "cuisine": "Indian",
+    "ingredients": [
+      "green beans",
+      "coconut",
+      "mustard seeds",
+      "curry leaves",
+      "urad dal",
+      "oil"
+    ],
+    "instructions": "Temper mustard seeds, urad dal and curry leaves in oil. Add chopped green beans, cover and cook until tender, finish with grated coconut."
+  },
+  {
+    "id": 96,
+    "name": "Vegetable Jalfrezi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "bell pepper",
+      "onion",
+      "tomato",
+      "carrot",
+      "ginger",
+      "garlic",
+      "garam masala"
+    ],
+    "instructions": "Stir-fry julienned bell pepper, onion and carrot with ginger and garlic on high heat. Add tomato and garam masala, cook briefly to keep vegetables crisp."
+  },
+  {
+    "id": 97,
+    "name": "Avial (Mixed Vegetable Coconut Curry)",
+    "cuisine": "Indian",
+    "ingredients": [
+      "carrot",
+      "beans",
+      "potato",
+      "coconut",
+      "yogurt",
+      "curry leaves",
+      "cumin"
+    ],
+    "instructions": "Cook mixed vegetables until tender. Blend coconut and cumin into a paste, stir into vegetables with yogurt, finish with curry leaves and a drizzle of coconut oil."
+  },
+  {
+    "id": 98,
+    "name": "Parwal Sabzi (Pointed Gourd Curry)",
+    "cuisine": "Indian",
+    "ingredients": [
+      "pointed gourd",
+      "onion",
+      "tomato",
+      "cumin",
+      "turmeric",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion and tomato until soft. Add sliced pointed gourd with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 99,
+    "name": "Sev Tamatar Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "tomato",
+      "onion",
+      "sev",
+      "cumin",
+      "turmeric",
+      "coriander",
+      "oil"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion and tomato, cook into a soft masala. Season with turmeric and coriander, top generously with crunchy sev just before serving."
+  },
+  {
+    "id": 100,
+    "name": "Tori Sabzi (Ridge Gourd Curry)",
+    "cuisine": "Indian",
+    "ingredients": [
+      "ridge gourd",
+      "onion",
+      "tomato",
+      "cumin",
+      "turmeric",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion and tomato, cook until soft. Add peeled and chopped ridge gourd with turmeric, cover and simmer until tender."
+  },
+  {
+    "id": 101,
+    "name": "Capsicum Aloo Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "bell pepper",
+      "potato",
+      "onion",
+      "cumin",
+      "turmeric",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add potato and cook until half tender. Add bell pepper and onion with turmeric and coriander, cook until vegetables are tender."
+  },
+  {
+    "id": 102,
+    "name": "Undhiyu",
+    "cuisine": "Indian",
+    "ingredients": [
+      "eggplant",
+      "sweet potato",
+      "beans",
+      "green peas",
+      "fenugreek leaves",
+      "coconut",
+      "spices"
+    ],
+    "instructions": "Combine chopped winter vegetables and fenugreek leaf dumplings with a ground spice-coconut paste. Cover and slow-cook until all vegetables are tender and well infused."
+  },
+  {
+    "id": 103,
+    "name": "Kootu (Vegetable Lentil Curry)",
+    "cuisine": "Indian",
+    "ingredients": [
+      "lentils",
+      "pumpkin",
+      "coconut",
+      "cumin",
+      "turmeric",
+      "curry leaves"
+    ],
+    "instructions": "Cook lentils and chopped pumpkin together until soft. Blend coconut and cumin into a paste, stir in, temper with curry leaves and simmer briefly."
+  },
+  {
+    "id": 104,
+    "name": "Chicken Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add chicken and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 105,
+    "name": "Chicken Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "chicken",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry chicken in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 106,
+    "name": "Chicken Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and chicken, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 107,
+    "name": "Chicken Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "chicken",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss chicken with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 108,
+    "name": "Chicken Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "chicken",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry chicken with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 109,
+    "name": "Chicken Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "chicken",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook chicken with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 110,
+    "name": "Chicken Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "chicken",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then chicken with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 111,
+    "name": "Grilled Chicken",
+    "cuisine": "International",
+    "ingredients": [
+      "chicken",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate chicken in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 112,
+    "name": "Chicken Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "chicken",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate chicken in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 113,
+    "name": "Paneer Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "paneer",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add paneer and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 114,
+    "name": "Paneer Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "paneer",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry paneer in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 115,
+    "name": "Paneer Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "paneer",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and paneer, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 116,
+    "name": "Paneer Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "paneer",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss paneer with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 117,
+    "name": "Paneer Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "paneer",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry paneer with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 118,
+    "name": "Paneer Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "paneer",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook paneer with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 119,
+    "name": "Paneer Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "paneer",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then paneer with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 120,
+    "name": "Grilled Paneer",
+    "cuisine": "International",
+    "ingredients": [
+      "paneer",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate paneer in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 121,
+    "name": "Paneer Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "paneer",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate paneer in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 122,
+    "name": "Tofu Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "tofu",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add tofu and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 123,
+    "name": "Tofu Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "tofu",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry tofu in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 124,
+    "name": "Tofu Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "tofu",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and tofu, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 125,
+    "name": "Tofu Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "tofu",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss tofu with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 126,
+    "name": "Tofu Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "tofu",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry tofu with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 127,
+    "name": "Tofu Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "tofu",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook tofu with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 128,
+    "name": "Tofu Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "tofu",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then tofu with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 129,
+    "name": "Grilled Tofu",
+    "cuisine": "International",
+    "ingredients": [
+      "tofu",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate tofu in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 130,
+    "name": "Tofu Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "tofu",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate tofu in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 131,
+    "name": "Chickpeas Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add chickpeas and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 132,
+    "name": "Chickpeas Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "chickpeas",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry chickpeas in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 133,
+    "name": "Chickpeas Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and chickpeas, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 134,
+    "name": "Chickpeas Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "chickpeas",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss chickpeas with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 135,
+    "name": "Chickpeas Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "chickpeas",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry chickpeas with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 136,
+    "name": "Chickpeas Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "chickpeas",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook chickpeas with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 137,
+    "name": "Chickpeas Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "chickpeas",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then chickpeas with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 138,
+    "name": "Grilled Chickpeas",
+    "cuisine": "International",
+    "ingredients": [
+      "chickpeas",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate chickpeas in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 139,
+    "name": "Chickpeas Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "chickpeas",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate chickpeas in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 140,
+    "name": "Lentils Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "lentils",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add lentils and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 141,
+    "name": "Lentils Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "lentils",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry lentils in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 142,
+    "name": "Lentils Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "lentils",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and lentils, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 143,
+    "name": "Lentils Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "lentils",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss lentils with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 144,
+    "name": "Lentils Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "lentils",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry lentils with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 145,
+    "name": "Lentils Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "lentils",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook lentils with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 146,
+    "name": "Lentils Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "lentils",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then lentils with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 147,
+    "name": "Grilled Lentils",
+    "cuisine": "International",
+    "ingredients": [
+      "lentils",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate lentils in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 148,
+    "name": "Lentils Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "lentils",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate lentils in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 149,
+    "name": "Egg Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "egg",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add egg and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 150,
+    "name": "Egg Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "egg",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry egg in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 151,
+    "name": "Egg Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "egg",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and egg, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 152,
+    "name": "Egg Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "egg",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss egg with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 153,
+    "name": "Egg Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "egg",
+      "rice",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry egg with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 154,
+    "name": "Egg Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "egg",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook egg with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 155,
+    "name": "Egg Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "egg",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then egg with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 156,
+    "name": "Grilled Egg",
+    "cuisine": "International",
+    "ingredients": [
+      "egg",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate egg in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 157,
+    "name": "Egg Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "egg",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate egg in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 158,
+    "name": "Shrimp Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "shrimp",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add shrimp and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 159,
+    "name": "Shrimp Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "shrimp",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry shrimp in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 160,
+    "name": "Shrimp Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "shrimp",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and shrimp, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 161,
+    "name": "Shrimp Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "shrimp",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss shrimp with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 162,
+    "name": "Shrimp Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "shrimp",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry shrimp with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 163,
+    "name": "Shrimp Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "shrimp",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook shrimp with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 164,
+    "name": "Shrimp Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "shrimp",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then shrimp with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 165,
+    "name": "Grilled Shrimp",
+    "cuisine": "International",
+    "ingredients": [
+      "shrimp",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate shrimp in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 166,
+    "name": "Shrimp Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "shrimp",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate shrimp in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 167,
+    "name": "Salmon Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "salmon",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add salmon and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 168,
+    "name": "Salmon Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "salmon",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry salmon in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 169,
+    "name": "Salmon Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "salmon",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and salmon, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 170,
+    "name": "Salmon Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "salmon",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss salmon with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 171,
+    "name": "Salmon Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "salmon",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry salmon with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 172,
+    "name": "Salmon Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "salmon",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook salmon with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 173,
+    "name": "Salmon Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "salmon",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then salmon with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 174,
+    "name": "Grilled Salmon",
+    "cuisine": "International",
+    "ingredients": [
+      "salmon",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate salmon in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 175,
+    "name": "Salmon Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "salmon",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate salmon in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 176,
+    "name": "Beef Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "beef",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add beef and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 177,
+    "name": "Beef Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "beef",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry beef in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 178,
+    "name": "Beef Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "beef",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and beef, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 179,
+    "name": "Beef Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "beef",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss beef with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 180,
+    "name": "Beef Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "beef",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry beef with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 181,
+    "name": "Beef Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "beef",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook beef with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 182,
+    "name": "Beef Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "beef",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then beef with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 183,
+    "name": "Grilled Beef",
+    "cuisine": "International",
+    "ingredients": [
+      "beef",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate beef in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 184,
+    "name": "Beef Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "beef",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate beef in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 185,
+    "name": "Mushroom Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "mushroom",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add mushroom and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 186,
+    "name": "Mushroom Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "mushroom",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry mushroom in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 187,
+    "name": "Mushroom Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "mushroom",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and mushroom, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 188,
+    "name": "Mushroom Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "mushroom",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss mushroom with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 189,
+    "name": "Mushroom Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "mushroom",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry mushroom with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 190,
+    "name": "Mushroom Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "mushroom",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook mushroom with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 191,
+    "name": "Mushroom Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "mushroom",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then mushroom with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 192,
+    "name": "Grilled Mushroom",
+    "cuisine": "International",
+    "ingredients": [
+      "mushroom",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate mushroom in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 193,
+    "name": "Mushroom Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "mushroom",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate mushroom in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 194,
+    "name": "Potato Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "potato",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add potato and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 195,
+    "name": "Potato Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "potato",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry potato in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 196,
+    "name": "Potato Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "potato",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and potato, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 197,
+    "name": "Potato Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "potato",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss potato with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 198,
+    "name": "Potato Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "potato",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry potato with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 199,
+    "name": "Potato Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "potato",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook potato with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 200,
+    "name": "Potato Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "potato",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then potato with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 201,
+    "name": "Grilled Potato",
+    "cuisine": "International",
+    "ingredients": [
+      "potato",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate potato in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 202,
+    "name": "Potato Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "potato",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate potato in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 203,
+    "name": "Cauliflower Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "cauliflower",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add cauliflower and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 204,
+    "name": "Cauliflower Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "cauliflower",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry cauliflower in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 205,
+    "name": "Cauliflower Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "cauliflower",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and cauliflower, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 206,
+    "name": "Cauliflower Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "cauliflower",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss cauliflower with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 207,
+    "name": "Cauliflower Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "cauliflower",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry cauliflower with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 208,
+    "name": "Cauliflower Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "cauliflower",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook cauliflower with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 209,
+    "name": "Cauliflower Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "cauliflower",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then cauliflower with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 210,
+    "name": "Grilled Cauliflower",
+    "cuisine": "International",
+    "ingredients": [
+      "cauliflower",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate cauliflower in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 211,
+    "name": "Cauliflower Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "cauliflower",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate cauliflower in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 212,
+    "name": "Spinach Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "spinach",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add spinach and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 213,
+    "name": "Spinach Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "spinach",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry spinach in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 214,
+    "name": "Spinach Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "spinach",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and spinach, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 215,
+    "name": "Spinach Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "spinach",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss spinach with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 216,
+    "name": "Spinach Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "spinach",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry spinach with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 217,
+    "name": "Spinach Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "spinach",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook spinach with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 218,
+    "name": "Spinach Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "spinach",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then spinach with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 219,
+    "name": "Grilled Spinach",
+    "cuisine": "International",
+    "ingredients": [
+      "spinach",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate spinach in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 220,
+    "name": "Spinach Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "spinach",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate spinach in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 221,
+    "name": "Eggplant Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "eggplant",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add eggplant and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 222,
+    "name": "Eggplant Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "eggplant",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry eggplant in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 223,
+    "name": "Eggplant Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "eggplant",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and eggplant, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 224,
+    "name": "Eggplant Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "eggplant",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss eggplant with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 225,
+    "name": "Eggplant Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "eggplant",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry eggplant with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 226,
+    "name": "Eggplant Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "eggplant",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook eggplant with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 227,
+    "name": "Eggplant Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "eggplant",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then eggplant with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 228,
+    "name": "Grilled Eggplant",
+    "cuisine": "International",
+    "ingredients": [
+      "eggplant",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate eggplant in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 229,
+    "name": "Eggplant Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "eggplant",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate eggplant in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 230,
+    "name": "Sweet Potato Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "sweet potato",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add sweet potato and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 231,
+    "name": "Sweet Potato Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "sweet potato",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry sweet potato in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 232,
+    "name": "Sweet Potato Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "sweet potato",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and sweet potato, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 233,
+    "name": "Sweet Potato Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "sweet potato",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss sweet potato with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 234,
+    "name": "Sweet Potato Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "sweet potato",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry sweet potato with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 235,
+    "name": "Sweet Potato Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "sweet potato",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook sweet potato with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 236,
+    "name": "Sweet Potato Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "sweet potato",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then sweet potato with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 237,
+    "name": "Grilled Sweet Potato",
+    "cuisine": "International",
+    "ingredients": [
+      "sweet potato",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate sweet potato in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 238,
+    "name": "Sweet Potato Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "sweet potato",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate sweet potato in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 239,
+    "name": "Kidney Beans Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "kidney beans",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add kidney beans and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 240,
+    "name": "Kidney Beans Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "kidney beans",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry kidney beans in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 241,
+    "name": "Kidney Beans Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "kidney beans",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and kidney beans, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 242,
+    "name": "Kidney Beans Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "kidney beans",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss kidney beans with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 243,
+    "name": "Kidney Beans Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "kidney beans",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry kidney beans with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 244,
+    "name": "Kidney Beans Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "kidney beans",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook kidney beans with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 245,
+    "name": "Kidney Beans Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "kidney beans",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then kidney beans with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 246,
+    "name": "Grilled Kidney Beans",
+    "cuisine": "International",
+    "ingredients": [
+      "kidney beans",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate kidney beans in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 247,
+    "name": "Kidney Beans Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "kidney beans",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate kidney beans in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 248,
+    "name": "Bell Pepper Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "bell pepper",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add bell pepper and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 249,
+    "name": "Bell Pepper Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "bell pepper",
+      "garlic",
+      "soy sauce",
+      "oil"
+    ],
+    "instructions": "Stir-fry bell pepper in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 250,
+    "name": "Bell Pepper Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "bell pepper",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and bell pepper, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 251,
+    "name": "Bell Pepper Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "bell pepper",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss bell pepper with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 252,
+    "name": "Bell Pepper Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "bell pepper",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry bell pepper with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 253,
+    "name": "Bell Pepper Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "bell pepper",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook bell pepper with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 254,
+    "name": "Bell Pepper Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "bell pepper",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then bell pepper with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 255,
+    "name": "Grilled Bell Pepper",
+    "cuisine": "International",
+    "ingredients": [
+      "bell pepper",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate bell pepper in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 256,
+    "name": "Bell Pepper Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "bell pepper",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate bell pepper in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 257,
+    "name": "Cabbage Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "cabbage",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add cabbage and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 258,
+    "name": "Cabbage Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "cabbage",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry cabbage in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 259,
+    "name": "Cabbage Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "cabbage",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and cabbage, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 260,
+    "name": "Cabbage Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "cabbage",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss cabbage with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 261,
+    "name": "Cabbage Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "cabbage",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry cabbage with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 262,
+    "name": "Cabbage Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "cabbage",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook cabbage with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 263,
+    "name": "Cabbage Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "cabbage",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then cabbage with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 264,
+    "name": "Grilled Cabbage",
+    "cuisine": "International",
+    "ingredients": [
+      "cabbage",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate cabbage in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 265,
+    "name": "Cabbage Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "cabbage",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate cabbage in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 266,
+    "name": "Carrot Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "carrot",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add carrot and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 267,
+    "name": "Carrot Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "carrot",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry carrot in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 268,
+    "name": "Carrot Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "carrot",
+      "onion",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and carrot, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 269,
+    "name": "Carrot Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "carrot",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss carrot with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 270,
+    "name": "Carrot Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "carrot",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry carrot with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 271,
+    "name": "Carrot Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "carrot",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook carrot with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 272,
+    "name": "Carrot Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "carrot",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then carrot with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 273,
+    "name": "Grilled Carrot",
+    "cuisine": "International",
+    "ingredients": [
+      "carrot",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate carrot in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 274,
+    "name": "Carrot Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "carrot",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate carrot in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  },
+  {
+    "id": 275,
+    "name": "Black Beans Curry",
+    "cuisine": "Indian",
+    "ingredients": [
+      "black beans",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "instructions": "Saute onion, garlic and ginger in oil, add tomato and garam masala to build a sauce. Add black beans and simmer until cooked through and well coated in the sauce."
+  },
+  {
+    "id": 276,
+    "name": "Black Beans Stir Fry",
+    "cuisine": "Asian",
+    "ingredients": [
+      "black beans",
+      "garlic",
+      "soy sauce",
+      "bell pepper",
+      "oil"
+    ],
+    "instructions": "Stir-fry black beans in hot oil until cooked, add garlic and bell pepper, toss with soy sauce over high heat until combined."
+  },
+  {
+    "id": 277,
+    "name": "Black Beans Soup",
+    "cuisine": "International",
+    "ingredients": [
+      "black beans",
+      "onion",
+      "carrot",
+      "celery",
+      "vegetable broth"
+    ],
+    "instructions": "Saute onion, carrot and celery, add broth and black beans, simmer until everything is tender and flavors meld."
+  },
+  {
+    "id": 278,
+    "name": "Black Beans Salad",
+    "cuisine": "International",
+    "ingredients": [
+      "black beans",
+      "lettuce",
+      "olive oil",
+      "lemon",
+      "tomato"
+    ],
+    "instructions": "Toss black beans with lettuce and tomato, dress with olive oil and a squeeze of lemon."
+  },
+  {
+    "id": 279,
+    "name": "Black Beans Fried Rice",
+    "cuisine": "Chinese",
+    "ingredients": [
+      "black beans",
+      "rice",
+      "egg",
+      "soy sauce",
+      "spring onion"
+    ],
+    "instructions": "Stir-fry black beans with rice and scrambled egg, season with soy sauce and garnish with spring onion."
+  },
+  {
+    "id": 280,
+    "name": "Black Beans Tacos",
+    "cuisine": "Mexican",
+    "ingredients": [
+      "black beans",
+      "tortilla",
+      "onion",
+      "lime",
+      "cilantro"
+    ],
+    "instructions": "Cook black beans with onion, fill tortillas, top with cilantro and a squeeze of lime."
+  },
+  {
+    "id": 281,
+    "name": "Black Beans Sabzi",
+    "cuisine": "Indian",
+    "ingredients": [
+      "black beans",
+      "cumin",
+      "turmeric",
+      "onion",
+      "coriander"
+    ],
+    "instructions": "Saute cumin seeds in oil, add onion, then black beans with turmeric and coriander, cover and cook until tender."
+  },
+  {
+    "id": 282,
+    "name": "Grilled Black Beans",
+    "cuisine": "International",
+    "ingredients": [
+      "black beans",
+      "olive oil",
+      "garlic",
+      "lemon",
+      "herbs"
+    ],
+    "instructions": "Marinate black beans in olive oil, garlic, lemon and herbs, then grill until cooked through and lightly charred."
+  },
+  {
+    "id": 283,
+    "name": "Black Beans Biryani",
+    "cuisine": "Indian",
+    "ingredients": [
+      "black beans",
+      "rice",
+      "yogurt",
+      "whole spices",
+      "onion"
+    ],
+    "instructions": "Marinate black beans in yogurt and spices, layer with partially cooked rice and fried onion, steam until fully cooked and fragrant."
+  }
+]

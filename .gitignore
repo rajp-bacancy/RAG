@@ -1,0 +1,5 @@
+.env
+vector_store.npz
+__pycache__/
+*.pyc
+.venv/

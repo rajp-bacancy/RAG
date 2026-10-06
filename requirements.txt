@@ -3,3 +3,4 @@ numpy
 sentence-transformers
 requests
 python-dotenv
+pdfplumber

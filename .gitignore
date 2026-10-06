@@ -3,3 +3,4 @@ vector_store.npz
 __pycache__/
 *.pyc
 .venv/
+indexes/
